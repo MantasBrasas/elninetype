@@ -2,6 +2,7 @@
 TYPÊ ĹiKĘ Ļ9 WÃRĻ0RÐ SP4C3GĹiÐÊR $ÜPËR VïCïØÜ5 666 PiTBÜĹĹ
 
 YOU MUST HAVE AUTOHOTKEY INSTALLED TO USE THIS SCRIPT.
+
 DOWNLOAD AUTOHOTKEY [HERE](https://www.autohotkey.com/).
 
 Once you have autohotkey installed, simply open the script and use the hotkeys to activate the script.
@@ -13,8 +14,11 @@ The version which runs outside of game uses alt + home as a toggle.
 If your keyboard does not have a home key, you can edit the script to change
 
 !Home::Suspend
+
 to something like
+
 !p::Suspend
+
 
 Which will make the hotkey alt + p to toggle the script.
 
