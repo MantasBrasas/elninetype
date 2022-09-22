@@ -1,5 +1,5 @@
 # elninetype
-TYPÊ ĹiKĘ Ļ9 WÃRĻ0RÐ $P4C3GĹiÐÊR $ÜPËR VïCïØÜ5 666 PiTBÜĹĹ
+TYPÊ ĹiKĘ Ļ9 WÃRĻ0RÐ SP4C3GĹiÐÊR $ÜPËR VïCïØÜ5 666 PiTBÜĹĹ
 
 YOU MUST HAVE AUTOHOTKEY INSTALLED TO USE THIS SCRIPT.
 DOWNLOAD AUTOHOTKEY [HERE](https://www.autohotkey.com/).
