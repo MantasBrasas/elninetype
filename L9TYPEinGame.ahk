@@ -5,7 +5,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 Suspend, on
 
-Enter::Suspend
+~Enter::Suspend
 
 :*?:a:: ; char A:4ÁÂÃÄᾉ
 	letterA(){
