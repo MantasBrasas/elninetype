@@ -18,5 +18,3 @@ to something like
 !p::Suspend
 
 Which will make the hotkey alt + p to toggle the script.
-
-TYPÊ ĹiKĘ Ļ9 WÃRĻ0RÐ SP4C3GĹiÐÊR $ÜPËR VïCïØÜ5 666 PiTBÜĹĹ
